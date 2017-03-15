@@ -1,3 +1,5 @@
+
+^`::^Tab
 LControl & Tab::AltTab
 CapsLock::^Space
 
@@ -16,3 +18,4 @@ CapsLock::^Space
 !s::Run,"C:\Program Files\Sublime Text 3\sublime_text.exe"
 !g::Run,"C:\Users\tzungtzu\AppData\Local\SourceTree\Update.exe --processStart "SourceTree.exe"
 !i::Run, Chrome.exe http://www.getpocket.com
+!Tab::
