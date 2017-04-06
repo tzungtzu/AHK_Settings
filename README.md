@@ -14,3 +14,5 @@ I use apple's keyboard so the command key refer to ctrl and option refer to alt.
 
 1. add  command+left/right to cursor to line beginning
 2. and alt + to the word forward.
+3. make use of the shift + J, K. I think it is useful, what about use ctrl+ jk, 
+
